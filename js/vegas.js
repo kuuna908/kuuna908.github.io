@@ -1,10 +1,10 @@
 $(function() {
     $('.mainimg-tate').vegas({
         slides: [
-            { src: 'images/IMG_4175.jpeg' },
-            { src: 'images/IMG_4822.jpeg' },	//1枚目の写真指定
-            { src: 'images/IMG_6382.jpeg' },	//2枚目の写真指定
-            { src: 'images/IMG_7043.jpeg'}	,
+            { src: 'images/IMG_3378.jpeg' },
+            { src: 'images/IMG_4113.jpeg' },	//1枚目の写真指定
+            { src: 'images/IMG_5149.jpeg' },	//2枚目の写真指定
+            { src: 'images/IMG_6729.jpeg'}	,
         ],
 		transition: 'blur',			//https://vegas.jaysalvat.com/documentation/transitions/から好みのtransitionを選んで置き換えられます。
 		animation: 'kenburns',		//https://vegas.jaysalvat.com/documentation/transitions/から好みのanimationを選んで置き換えられます。
